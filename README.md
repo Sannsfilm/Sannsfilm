@@ -2,15 +2,16 @@
 
 
 # 🌯 About me
-- Tech enthusiast
-- Student at Neue Fische
+
+- A lifelong learner
   
  # 🍜 Hobbies
-- Creating new projects
-- Watching comedy series
-- Trying out new recipes
+- Creating New Projects
+- Watching Comedy Series
+- Trying out New Recipes
 - Video editing
 - Yoga
+- The Museum Explorer
 - etc...
 
 # 🍤 Current projects
