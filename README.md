@@ -3,7 +3,7 @@
 
 # 🌯 About me
 - Tech enthusiast
-- Fresh student at Neue Fische
+- Student at Neue Fische
   
  # 🍜 Hobbies
 - Creating new projects
