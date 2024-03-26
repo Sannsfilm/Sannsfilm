@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hallo there! I am Susan 💫
 
-<!--
-**Sannsfilm/Sannsfilm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 🌯 About me
+- Tech enthusiast
+- Fresh student at Neue Fische
+  
+ # 🍜 Hobbies
+- Creating new projects
+- Watching comedy series
+- Trying out new recipes
+- Video editing
+- Yoga
+- etc...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🍤 Current projects
+- Simons games Challenge
+- Content Creator for DW Indonesia
+
+# 🧇 Learning
+- Web Development Course at Neue Fische
+- The Complete 2024 Web Development Bootcamp on Udemy
+  
+
+## Here are some 🍽 for you: 
+🥐🥠🍫🥘🍕🥯🍱🥙🥗
+
