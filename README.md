@@ -16,7 +16,6 @@
 
 # 🍤 Current projects
 - Simons games Challenge
-- Content Creator for DW (Deutsche Welle) Indonesia
 
 # 🧇 Learning
 - Web Development Course at Neue Fische
